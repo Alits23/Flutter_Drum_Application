@@ -1,12 +1,11 @@
 # drum_music
 
-A new Flutter project.
+A simple drum music program to start learning Flutter.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application,
 
-A simple drum music program to start learning Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
